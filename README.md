@@ -1,4 +1,4 @@
-# Trustradius Product Reviews Dataset Sample
+# Trustradius Product Reviews データセットサンプル
 
 <h2>1,118件のレコードのサンプルデータセット</h2>
 
