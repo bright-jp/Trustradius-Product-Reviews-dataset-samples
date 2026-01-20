@@ -3,7 +3,7 @@
 <h2>1,118件のレコードのサンプルデータセット</h2>
 
 <a href="https://brightdata.jp">
-    <img src="https://github.com/luminati-io/Trustradius-Product-Reviews-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-jp/Trustradius-Product-Reviews-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 この **Trustradius Product Reviews Dataset Sample** には **1,118件のレコード** が含まれており、**Bright Data API** を使用して抽出されました。
